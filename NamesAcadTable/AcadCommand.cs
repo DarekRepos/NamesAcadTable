@@ -48,7 +48,7 @@ namespace NamesAcadTable
                     indType = new Electrical().FillTable();
                     break;
             }
-            BlockAttributes.Use(blkAtt => {blkAtt.UpdateAcadBlockAttributes("A$C3E58180D", indType);});
+            BlockAttributes.Use(blkAtt => {blkAtt.UpdateAcadBlockAttributes("A$C70146EFE", indType);});
         }
     }
 }

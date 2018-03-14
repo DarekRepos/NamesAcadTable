@@ -46,7 +46,7 @@ namespace NamesAcadTable
             AddDesigner("Jan Kowalski");
             AddDeveloper("Janina Kowalska");
             AddVerifier("Teodor Przykładowy");
-            AddIndustryName("Electrical");
+            AddIndustryName("Branża elektryczna");
         }
     }
 
@@ -57,7 +57,7 @@ namespace NamesAcadTable
             AddDesigner("Jan Rura");
             AddDeveloper("Pola Kowalska");
             AddVerifier("Lilia Kowalska");
-            AddIndustryName("Sanitary");
+            AddIndustryName("Branża sanitarna");
         }
     }
 
@@ -68,7 +68,7 @@ namespace NamesAcadTable
             AddDesigner("Jack Roads");
             AddDeveloper("Katrine Tree");
             AddVerifier("Bruce Su");
-            AddIndustryName("Road");
+            AddIndustryName("Branża drogowa");
         }
     }
 }
