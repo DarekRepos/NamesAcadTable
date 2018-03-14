@@ -25,6 +25,5 @@ namespace NamesAcadTable
             _verifiedBy = verifier;
             _industryName = name;
         }
-
     }
 }

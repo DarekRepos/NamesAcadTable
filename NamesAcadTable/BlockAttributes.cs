@@ -7,7 +7,6 @@ namespace NamesAcadTable
 {
     public class BlockAttributes
     {
-        // Protected prevents creating objects outside of class
         protected BlockAttributes()
         {
         }
@@ -17,7 +16,6 @@ namespace NamesAcadTable
             // Add Cleanup or disposing
         }
 
-        //Execute Around Method Pattern
         public static void Use(Action<BlockAttributes> codeblock)
         {
             BlockAttributes blkAtt = new BlockAttributes();
